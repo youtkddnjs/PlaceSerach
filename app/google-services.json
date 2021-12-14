@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911559103625",
+    "project_id": "placeserach",
+    "storage_bucket": "placeserach.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911559103625:android:5690c416f7fd0ac07ee258",
+        "android_client_info": {
+          "package_name": "com.ysw.placeserach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911559103625-v6gtdja420s6h5nlb0nhvf65dorv1kik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWe9XSrkDKjk5BnfnbXK2SYl0pfb78FkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911559103625-v6gtdja420s6h5nlb0nhvf65dorv1kik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
