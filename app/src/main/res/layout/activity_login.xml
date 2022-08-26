@@ -18,21 +18,22 @@
         android:textColor="@color/black"
         android:textSize="40sp"
         android:textStyle="bold" />
+
     <TextView
         android:id="@+id/tv_go"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="시작하기."
         android:layout_below="@id/tv_title"
         android:layout_centerHorizontal="true"
-        android:textColor="@color/black"
         android:background="@drawable/bg_tv_go"
-        android:paddingTop="8dp"
-        android:paddingBottom="8dp"
-        android:paddingLeft="16dp"
-        android:paddingRight="16dp"
         android:clickable="true"
-        android:onClick="clickGo"/>
+        android:onClick="clickGo"
+        android:paddingLeft="16dp"
+        android:paddingTop="8dp"
+        android:paddingRight="16dp"
+        android:paddingBottom="8dp"
+        android:text="나의 근처"
+        android:textColor="@color/black" />
 
     <!-- 화면배치를 아래부터..   -->
     <TextView
